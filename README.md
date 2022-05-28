@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @williamleeburgess
-- 👀 I’m interested in microbiology, ecology, computational biology.
-- 🌱 I’m currently learning brass tacks of QIIME.
+- 👀 I’m interested in microbiology, ecology, computational biology, astrobiology.
+- 🌱 I’m currently learning troubleshooting genomics with MAKER.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: wburgess@stfx.ca
 
